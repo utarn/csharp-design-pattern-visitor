@@ -1,0 +1,13 @@
+C:\projects\dotnet\pattern-visitor\bin\Debug\netcoreapp3.1\pattern-visitor.exe
+C:\projects\dotnet\pattern-visitor\bin\Debug\netcoreapp3.1\pattern-visitor.deps.json
+C:\projects\dotnet\pattern-visitor\bin\Debug\netcoreapp3.1\pattern-visitor.runtimeconfig.json
+C:\projects\dotnet\pattern-visitor\bin\Debug\netcoreapp3.1\pattern-visitor.runtimeconfig.dev.json
+C:\projects\dotnet\pattern-visitor\bin\Debug\netcoreapp3.1\pattern-visitor.dll
+C:\projects\dotnet\pattern-visitor\bin\Debug\netcoreapp3.1\pattern-visitor.pdb
+C:\projects\dotnet\pattern-visitor\obj\Debug\netcoreapp3.1\pattern-visitor.csprojAssemblyReference.cache
+C:\projects\dotnet\pattern-visitor\obj\Debug\netcoreapp3.1\pattern-visitor.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\pattern-visitor\obj\Debug\netcoreapp3.1\pattern-visitor.AssemblyInfoInputs.cache
+C:\projects\dotnet\pattern-visitor\obj\Debug\netcoreapp3.1\pattern-visitor.AssemblyInfo.cs
+C:\projects\dotnet\pattern-visitor\obj\Debug\netcoreapp3.1\pattern-visitor.dll
+C:\projects\dotnet\pattern-visitor\obj\Debug\netcoreapp3.1\pattern-visitor.pdb
+C:\projects\dotnet\pattern-visitor\obj\Debug\netcoreapp3.1\pattern-visitor.genruntimeconfig.cache
